@@ -36,4 +36,10 @@ Demonstrates CLASSIFICATION to STRONG BUY, BUY, HOLD or SELL a stock.  Data is s
 ComparePythonToC.sh
 This uses the same data file as the Recommend.sh example and tests it with the Python script and the C program. Execution times are drastically different.
 
+References
+
+Python script from Jason Brownlee at Machine Learning Mastery.
+https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/
+
+
 
